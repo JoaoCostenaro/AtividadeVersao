@@ -1,3 +1,1 @@
-Curso do Senac
-Atividade Git
-Alteração de Arquivo
+Enviando pro github
